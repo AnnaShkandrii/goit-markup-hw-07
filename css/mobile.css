@@ -1,0 +1,51 @@
+
+@media screen and (min-width: 480px) {
+
+ .container {
+   max-width: 428px;
+ }
+
+ /*--------------header nav-----------------*/
+
+ .header {
+    max-height: 70px;
+ }
+
+ /*---------------hero---------------------*/
+
+ .hero {
+   padding:112px 55px 112px 55px;
+ }
+ 
+ .hero .title {
+ width: 318px;
+ font-size: 36px;
+ max-width: 428px;
+ }
+ /* ---------мобільне меню--------------- */
+ 
+ .mob-menu-tel {
+    font-size: 36px;
+    
+ }
+
+ .menu-soc-list {
+    gap: 56px;
+ }
+
+
+ /*-----------Футер-----------------------*/
+
+    .footer-input {
+        width: 396px;
+    }
+
+
+ /*----------Модалка-------------------*/
+
+ .modal {
+    max-width: 392px;
+ }
+
+}
+
